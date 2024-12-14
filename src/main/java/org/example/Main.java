@@ -3,7 +3,7 @@ package org.example;
 import javax.swing.*;
 import java.awt.*;
 
-public class Elevator_simulation {
+public class Main {
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> new Elevator_gui().Gui_show());
     }
